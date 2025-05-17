@@ -1,0 +1,13 @@
+../Core/Src/Dash_lib/mainDash_lib.c:9:6:HAL_SPI_TxCpltCallback	2
+../Core/Src/Dash_lib/mainDash_lib.c:15:13:ILI9488_SendCommand	1
+../Core/Src/Dash_lib/mainDash_lib.c:23:13:ILI9488_SendData	1
+../Core/Src/Dash_lib/mainDash_lib.c:31:13:ILI9488_Reset	1
+../Core/Src/Dash_lib/mainDash_lib.c:38:13:ILI9488_Color	1
+../Core/Src/Dash_lib/mainDash_lib.c:50:6:ILI9488_Init	1
+../Core/Src/Dash_lib/mainDash_lib.c:68:13:ILI9488_SetWindow	1
+../Core/Src/Dash_lib/mainDash_lib.c:85:6:ILI9488_DrawPixel	1
+../Core/Src/Dash_lib/mainDash_lib.c:111:6:ILI9488_FillScreen_DMA	4
+../Core/Src/Dash_lib/mainDash_lib.c:144:6:ILI9488_Square	7
+../Core/Src/Dash_lib/mainDash_lib.c:177:6:ILI9488_DrawBitmapRGB565	4
+../Core/Src/Dash_lib/mainDash_lib.c:216:6:ILI9488_DrawChar	8
+../Core/Src/Dash_lib/mainDash_lib.c:252:6:ILI9488_DrawString	5
